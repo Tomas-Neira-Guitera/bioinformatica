@@ -1,0 +1,12 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+NP_061820.1_cytochrome_c_[Homo_sapiens]                                        ----MGDVEKGKKIFIMKCSQCHTVEKGGKHKTGPNLHGLFGRKTGQAPGYSYTAANKNK	56
+NP_001285984.1_cytochrome_c_proximal,_isoform_B_[Drosophila_melanogaster]      MGVPAGDVEKGKKLFVQRCAQCHTVEAGGKHKVGPNLHGLIGRKTGQAAGFAYTDANKAK	60
+bartmosca                                                                      --MGSGDAENGKKIFVQKCAQCHTYEVGGKHKTGPNLHGLFGRKTGQAPGYSYTAANKNK	58
+                                                                                    **.*:***:*: :*:**** * *****.*******:******* *::** *** *
+
+NP_061820.1_cytochrome_c_[Homo_sapiens]                                        GIIWGEDTLMEYLENPKKYIPGTKMIFVGIKKKEERADLIAYLKKATNE	105
+NP_001285984.1_cytochrome_c_proximal,_isoform_B_[Drosophila_melanogaster]      GITWNEDTLFEYLENPKKYIPGTKMIFAGLKKPNERGDLIAYLKSATK-	108
+bartmosca                                                                      GIIWGEDTLMEYLENPKKYIPGTKMIFVGIKKKEERADLIAYLKKATNE	107
+                                                                               ** *.****:*****************.*:** :**.*******.**: 
